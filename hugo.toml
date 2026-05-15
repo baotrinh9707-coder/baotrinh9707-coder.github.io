@@ -1,0 +1,16 @@
+baseURL = "https://baotrinh9707-coder.github.io/"
+locale = 'en-us'
+title = 'My Project'
+theme = "reimu"
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 3    
+
+  [params]
+  # Cấu hình Avatar và thông tin cá nhân
+  avatar = "/images/avatar.jpg" # Tạo thư mục static/images/ và thả ảnh avatar của bạn vào đó
+  author = "Trinh"
+  math = true
+  subtitle = "UIT-er"
