@@ -7,7 +7,4 @@ title = 'About'
 
 Hi, I'm Trinh.
 
-Software Engineering student with a strong passion for programming in C++ and Python, exploring Linux systems, and playing table tennis in my free time.[[menu.main]]
-  name = "About"
-  url = "/about/" # Dấu / ở cuối rất quan trọng!
-  weight = 3
+Software Engineering student with a strong passion for programming in C++ and Python, exploring Linux systems, and playing table tennis in my free time.
