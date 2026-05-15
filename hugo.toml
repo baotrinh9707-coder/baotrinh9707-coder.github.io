@@ -10,10 +10,14 @@ theme = "reimu"
 
   [params]
   # Cấu hình Avatar và thông tin cá nhân
-  avatar = "/images/avatar.jpg" # Tạo thư mục static/images/ và thả ảnh avatar của bạn vào đó
+  avatar = "images/avatar.jpg" 
   author = "Trinh"
   math = true
   subtitle = "UIT-er"
+
+  [params.social]
+  github = "https://github.com/baotrinh9707-coder"
+  facebook = "https://www.facebook.com/bao.trinh.770396"
 
   [params.footer]
   since = 2026
