@@ -4,7 +4,7 @@ title = "My Project"
 theme = "reimu"
 
 [params]
-  avatar = "https://baotrinh9707-coder.github.io/images/avatar.jpg"
+  avatar = "avatar.jpg"
   author = "Trinh"
   subtitle = "UIT-er"
   description = "UIT Student"
