@@ -14,7 +14,8 @@ theme = "reimu"
   author = "Trinh"
   math = true
   subtitle = "UIT-er"
-
+  description = "UIT Student"
+  
   [params.social]
   github = "https://github.com/baotrinh9707-coder"
   facebook = "https://www.facebook.com/bao.trinh.770396"
