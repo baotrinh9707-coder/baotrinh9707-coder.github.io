@@ -1,34 +1,31 @@
 baseURL = "https://baotrinh9707-coder.github.io/"
-locale = 'en-us'
-title = 'My Project'
+locale = "en-us"
+title = "My Project"
 theme = "reimu"
 
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 1
-
-[[menu.main]]
-  name = "Archives"
-  url = "/archives/"
-  weight = 2
-
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 3    
-
-  [params]
-  # Cấu hình Avatar và thông tin cá nhân
-  avatar = "images/avatar.jpg" 
+[params]
+  avatar = "/images/avatar.jpg"
   author = "Trinh"
-  math = true
   subtitle = "UIT-er"
   description = "UIT Student"
-  
-  [params.social]
+
+[[params.menu]]
+  name = "home"
+  url = ""
+
+[[params.menu]]
+  name = "archives"
+  url = "archives"
+
+[[params.menu]]
+  name = "about"
+  url = "about"
+
+[params.social]
   github = "https://github.com/baotrinh9707-coder"
   facebook = "https://www.facebook.com/bao.trinh.770396"
 
-  [params.footer]
+
+[params.footer]
   since = 2026
+  
