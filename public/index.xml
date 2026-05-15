@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Project</title>
-    <link>https://baotrinh9707-coder.github.io/</link>
-    <description>Recent content from My New Project</description>
+    <title>My Project</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content from My Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     
@@ -15,7 +15,7 @@
     <lastBuildDate></lastBuildDate>
     
     
-    <atom:link href="https://baotrinh9707-coder.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
