@@ -4,6 +4,16 @@ title = 'My Project'
 theme = "reimu"
 
 [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Archives"
+  url = "/archives/"
+  weight = 2
+
+[[menu.main]]
   name = "About"
   url = "/about/"
   weight = 3    
