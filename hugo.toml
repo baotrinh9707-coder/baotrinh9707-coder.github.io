@@ -9,10 +9,11 @@ theme = "reimu"
   weight = 3    
 
   [params]
-  avatar = "/images/avatar.jpg"
-  author = "Trình"
-  subtitle = "UIT Student"
-  description = "UIT Student"
+  # Cấu hình Avatar và thông tin cá nhân
+  avatar = "/images/avatar.jpg" # Tạo thư mục static/images/ và thả ảnh avatar của bạn vào đó
+  author = "Trinh"
+  math = true
+  subtitle = "UIT-er"
 
-[params.footer]
+  [params.footer]
   since = 2026
